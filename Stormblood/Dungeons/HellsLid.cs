@@ -23,7 +23,7 @@ namespace DungeonMasterScripts.Stormblood.Dungeons
         #region Script Metadata
 
         public override string Author => @"ZZI & y2krazy";
-        public override uint DungeonId => 56;
+        public override uint DungeonId => 59;
         public override string Name => @"Hell's Lid";
         public override Version Version => new Version(0, 7, 0, 0);
 
